@@ -1,10 +1,10 @@
-# 아파트 안내문 음성 안내 서비스
+# 터치 미니 게임
 
-## 진행 기간 : 2021년 6월 28일 ~ 8월 23일
+## 진행 기간 : 2021년 10월 1일 ~ 12월 10일
 
 ## 사용 기술
 + <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> - Programming Language
-+ <img src ="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> - Database
++ <img src ="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square"/> - Database
 + <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> - LCD Touch Panel(Interface)
 + 
 ## 프로젝트 설명
