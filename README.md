@@ -5,8 +5,8 @@
 ## 사용 기술
 + <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> - Programming Language
 + <img src ="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square"/> - Database
-+ <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> - LCD Touch Panel(Interface)
-+ 
++ <img src="https://img.shields.io/badge/lattepanda-CDA56B?logo=foodpanda&logoColor=fff&style=flat-square"/> - Mini Computer(Win10)
+
 ## 프로젝트 설명
 + 
 
