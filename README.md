@@ -11,22 +11,17 @@
 + 
 
 ---
-<details>
-<summary><b> 기능 설명 펼치기</b></summary>
-<div markdown="1">
+## 구현 기능 설명
 
 ### 1. 관리자 프로세스
 <img src =""/>
 
 
-</details>
+
   
 ---
-<details>
-<summary><b> 실제 뷰 펼치기</b></summary>
-<div markdown="1">
+## 테스트 영상
 
 ### 실제 서비스 과정(서버 실행 및 게시물 생성)
 <img src =""/>
 
-</details>
