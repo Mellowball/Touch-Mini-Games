@@ -13,6 +13,8 @@
 + 파이썬의 pygame 라이브러리로 게임 화면 생성 및 게임 기능 수행
 + 터치 기능이 없는 일반 디스플레이에 IR 터치 프레임을 부착하여 터치 기능을 추가
 + 각각의 게임에 대해 기록을 관리 및 게임 결과와 이전 기록들 출력
++ pyinstaller를 통해 해당 프로젝트를 실행 파일(.exe)로 생성(./dist/physical_promotion_game.exe 파일)
++ ㄴ이는 main_game_pyinstall_ver.py로 구현(main_game.py와 파일 경로 지정이 다름)
 
 ---
 ## 구현 기능 설명
