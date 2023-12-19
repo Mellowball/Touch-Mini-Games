@@ -8,13 +8,15 @@
 + <img src="https://img.shields.io/badge/lattepanda-CDA56B?logo=foodpanda&logoColor=fff&style=flat-square"/> - Mini Computer(Win10)
 
 ## 프로젝트 설명
-+ 
++ 터치 기능으로 미니 게임을 수행하는 프로젝트
++ 파이썬의 pygame 라이브러리로 게임 화면 생성 및 게임 기능 수행
++ 터치 기능이 없는 일반 디스플레이에 IR 터치 프레임을 부착하여 터치 기능을 추가
++ 각각의 게임에 대해 기록을 관리 및 게임 결과와 이전 기록들 출력
 
 ---
 ## 구현 기능 설명
 
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/0.png"/>
-
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/1-1.png"/>
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/1-2.png"/>
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/1-3.png"/>
@@ -29,8 +31,6 @@
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/2-9.png"/>
   
 ---
-## 테스트 영상
-
 ### 실제 구현 뷰 및 시연
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/3-1.gif"/>
 <img src ="https://github.com/Mellowball/Touch-Mini-Games/blob/main/readme_img/3-2.gif"/>
